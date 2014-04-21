@@ -1,0 +1,9 @@
+C:/Users/v-lyingw/Desktop/LobbyB.ply
+../LobbyB_result.ply
+0.02
+50
+
+../wallext.ply
+../wallext_result.ply
+0.02
+500
